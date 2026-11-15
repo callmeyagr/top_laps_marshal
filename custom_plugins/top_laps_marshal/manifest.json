@@ -4,5 +4,6 @@
     "author": "YGR",
     "version": "1.0.0",
     "description": "Shows top 3 best laps of the selected pilot in Marshal view with median, std dev, and distribution histogram for data verification",
-    "required_rhapi_version": "1.0"
+    "required_rhapi_version": "1.0",
+	"category": "Results Analysis"
 }
